@@ -4,5 +4,9 @@
 }
 
 .imgs {
-    max-width: 100%;
+<<<<<<< HEAD
+    max-width: fit-content;
+=======
+    max-width: 5%;
+>>>>>>> parent of 9d97469 (Cat img set to 100% max-width)
 }
